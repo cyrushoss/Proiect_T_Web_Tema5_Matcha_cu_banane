@@ -6,9 +6,9 @@ Stack: JavaScript (ESM), Node.js + Express, Sequelize + SQLite, React + Vite.
 ## Echipa
 | Nume | Rol / contribuții |
 |---|---|
-|Sepahpour Cyrus-Alexandru  |Repo, cerințe, schemă ER                    |
-|Sofonea Andreea-Maria      |API, schelet, capacitate, teste generale    |
-|Tiloi Raluca-Ioana         |Pachetele TEN și SEC, ADR-uri, teste TEN/SEC|
+|Sepahpour Cyrus-Alexandru  |Repo, cerințe, schemă ER                     |
+|Sofonea Andreea-Maria      |API, schelet, capacitate, teste generale     |
+|Tiloi Raluca-Ioana         |Pachetele TEN și SEC, ADR-uri, teste TEN/SEC |
 
 ## Instalare
 ```bash
